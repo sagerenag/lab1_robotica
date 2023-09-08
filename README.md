@@ -11,7 +11,7 @@
 
 ## Diseño de la herramienta
 
-## Código en RAPID del m+odulo utilizado para el desarrollo de la práctica
+## Código en RAPID del módulo utilizado para el desarrollo de la práctica
 
 ## Videos
 ### Simulacion
