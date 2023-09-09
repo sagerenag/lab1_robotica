@@ -26,6 +26,18 @@ Aca encontramos la ubucacion del centro de la torta respecto a la base del robot
 ## Descripción de las funciones utilizadas
 
 ## Diseño de la herramienta
+Para el diseño de la herramienta, primero se elaboraron las piezas en inventor, luego se imprimieron las piezas en 3D y se realizo el ensamble final.
+![image](https://github.com/sagerenag/lab1_robotica/assets/144469847/f78e6c44-390b-484c-b5c3-ff3a90e0689b)
+![image](https://github.com/sagerenag/lab1_robotica/assets/144469847/9bca63c5-093d-40e2-b5e3-01a628fb042f)
+
+Por partes inciamos con la base que va al portaherramienta del robot, esta base se diseño siguiendo las dimensiones y forma que se evidencian en el manual del robot, asi tenemos una pieza con 4 perforaciones de 6mm donde se posicionan los tornillos para fijar la herramienta al brazo robotico, tambien cuenta con un orificio central roscado de 28,9mm de diametro en el cual, se ensamblara el resto de la herramienta.
+![image](https://github.com/sagerenag/lab1_robotica/assets/144469847/2ec41ee9-a1b7-414b-a272-338849e4bc4c)
+
+la siguiente pieza del ensamble es un codo el cual sirve en la herramienta para dar apertura y cierta distancia dentre la punta de la herramienta y el brazo robotico, este codo tiene un angulo principal de 135° y una altura de 60,64mm, tambien las dos partes que conecta tienen diferente radio, es el puente entre la rosca de la base y el soporte del marcador.
+![image](https://github.com/sagerenag/lab1_robotica/assets/144469847/a3eaf72d-9070-444b-b687-5feaa93c292d)
+
+por ultimo se encuentra el soporte del marcador, este es simplemente una t custom donde se aloja el marcador, esta internamente ajusta al marcador permitiendo que este pueda inclinarse, voltearse y demas sin que pierda su posicion o modifique la posicion de la punta del marcador como se muestra a continuacion
+![image](https://github.com/sagerenag/lab1_robotica/assets/144469847/71a88352-0ff8-431d-b923-fbf12287f695)
 
 ## Código en RAPID del módulo utilizado para el desarrollo de la práctica
 El codigo RAPID se encuentra en la carpeta RAPID de este mismo repositorio
