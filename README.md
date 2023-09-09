@@ -27,6 +27,7 @@ Aca encontramos la ubucacion del centro de la torta respecto a la base del robot
 
 ## Diseño de la herramienta
 Para el diseño de la herramienta, primero se elaboraron las piezas en inventor, luego se imprimieron las piezas en 3D y se realizo el ensamble final.
+
 ![image](https://github.com/sagerenag/lab1_robotica/assets/144469847/f78e6c44-390b-484c-b5c3-ff3a90e0689b)
 ![image](https://github.com/sagerenag/lab1_robotica/assets/144469847/9bca63c5-093d-40e2-b5e3-01a628fb042f)
 
