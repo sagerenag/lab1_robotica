@@ -24,6 +24,21 @@ Aca se encuentran las partes fisicas que constituyen la pplanta como lo es el br
 
 Aca encontramos la ubucacion del centro de la torta respecto a la base del robot. Las distancias, como lo indica la imagen, se encuentran en milimetros
 ## Descripción de las funciones utilizadas
+Para la programación en RobotStudio se utitlizaron las siguientes funciones del entorno de desarrollo 
+
+![image](https://github.com/sagerenag/lab1_robotica/assets/144469847/7a49143d-196a-4f67-9f47-6043ba25b1a5)
+Barra de herramientas , con funciones especificas de las cuales se utilizaron 
+
+![image](https://github.com/sagerenag/lab1_robotica/assets/144469847/f9eb9872-b4ab-4164-8824-0e511e0bca7d)
+
+1)	Biblioteca ABB : para seleccionar el modelo de robot a utilizar y modelar
+2)	Importar biblioteca: para seleccionar la herramienta y vincularlos al proyecto
+3)	Controlador virtual : para simular el driver del robot 
+4)	Importar geometría : para integrar el pastel al proyecto y simularlo en el entorno con el tobot
+5)	Base de coordenadas : para generar el PCP de la herramienta y generar sistema de coordenadas bases del pastel 
+6)	Punto : para generar la trayectoria y simularla en el programa
+7)	Progamar posición , Programar instrucciones , ver tobot , para ir simulando y crear la trayectoria en tiempo real 
+
 
 ## Diseño de la herramienta
 Para el diseño de la herramienta, primero se elaboraron las piezas en inventor, luego se imprimieron las piezas en 3D y se realizo el ensamble final.
